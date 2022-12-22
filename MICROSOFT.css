@@ -1,0 +1,607 @@
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 100px;
+}
+
+.lista{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-left: -90px;
+    
+}
+
+.lista .tam1{
+    display: flex;
+    margin-top: 16px;
+    margin-left: 22px;
+    column-gap: 31px;
+    max-width: none;
+    width: 108px;
+}
+
+.lista .linia{
+    border-left: 2px solid #000;
+    height: 25px;
+    margin-left: -59px;
+    margin-top: 17px;
+    display: flex;
+}
+
+.lista .tam2{
+    display: flex;
+    max-width: none;
+    margin-top: 20px;
+    width: 75px;
+    margin-left: -60px;
+}
+
+.G{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -70px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.J{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -80px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.D{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -100px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.C{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -70px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.M{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -79px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.TM{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    margin-left: -35px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.B{
+    display: flex;
+    max-width: none;
+    margin-top: 22px;
+    width: 90px;
+    margin-left: -69px;
+    font-weight: 300;
+    font-size: 80%;
+}
+
+.lista .tam3{
+    display: flex;
+    margin-top: -12px;
+    width: 40px;
+    height: 40px;
+    margin-left: 4px;
+    
+}
+.lista .Ca{
+    display: flex;
+    max-width: none;
+    margin-top: 20px;
+    width: 80px;
+    margin-left: -80px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.lista .tam4{
+    display: flex;
+    margin-top: -0px;
+    top: 15px;
+    width: 16px;
+    height: 17px;
+    margin-left: 12px;
+}
+.lista .IS{
+    display: flex;
+    max-width: none;
+    margin-top: 20px;
+    margin-left: -80px;
+    font-weight: 300;
+    font-size: 80%;
+}
+.lista .tam5{
+    display: flex;
+    margin-top: -15px;
+    width: 44px;
+    height: 52px;
+    margin-left: 8px;
+}
+
+
+
+.grande{
+    margin-left: -8px;
+     width: 1485px;
+     height: 560px;
+     margin-top: -38px;
+     display: flex;
+ }
+ .imagen-fondo h2 {
+    display: flex;
+    margin: auto;
+    margin-top: -390px;
+    word-spacing: 2px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    font-size: 45px;
+    line-height: 55px;
+    margin-left: 75px;
+    font-weight: 500;
+}
+.imagen-fondo .texto0{
+    display: flex;
+    margin-right: 3px;
+    margin-top: 10px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 75px;
+    word-spacing: 1px;
+    
+}
+.imagen-segunda .juego{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 500px;
+    align-items: center;
+    height: 340px;
+    
+}
+.imagen-segunda .segundo{
+    text-align: center;
+    font-size: 35px;
+    line-height: 50px;
+    word-spacing: 3px;
+    margin-top: 20px;
+}
+.imagen-segunda .texto1{
+    line-height: 25px;
+    word-spacing: 1px;
+    text-align: center;
+    margin-top: -6px;
+    font-weight: 300;
+    margin-top: -20px;
+}
+.lista1 {
+    display: flex;
+    list-style: none;
+    color: darkgreen;
+    margin-top: 420px;
+    text-align: center;
+    margin-left: 310px;
+    left: 60px;
+}
+.lista1 p{
+    margin-left: 30px;
+    
+}
+ .titulo{
+    text-align: center;
+    font-size: 35px;
+    line-height: 50px;
+    word-spacing: 3px;
+    margin-top: 20px;
+}
+.cuadro{
+    display: flex;
+    width: 610px;
+    height: 450px;
+    margin-right: 500px;
+    margin-left: 140px;
+    background-color: rgb(26, 121, 30);
+}
+.verde{
+    display: flex;
+    width: 600px;
+    height: 450px;
+    margin-right: 100px;
+    margin-left: 750px;
+    margin-top: -450px;
+}
+.logo{
+    display: flex;
+    width: 330px;
+    height: 60px;
+    margin-right: 900px;
+    margin-left: 200px;
+    margin-top: -300px;
+}
+ .texto2{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 20px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    word-spacing: 4px;
+
+ }
+ .texto3{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-size:medium;
+    font-weight: 500;
+    word-spacing: 1px;
+ }
+h5{
+    background-color: rgb(76, 234, 105);
+    display: flex;
+    text-align: center;
+    width: 120px;
+    height: 20px;
+    border-radius: 4px;
+    align-content: stretch;
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: medium;
+}
+
+
+.image1{
+    display: flex;
+    margin-top: 470px;
+    margin-left: 150px;
+    height: 360px;
+    width: 570px;   
+}
+.image2{
+    display: flex;
+    margin-top: -496px;
+    margin-left: 749px;
+    height: 360px;
+    width: 590px; 
+}
+
+.tex1{
+    display: flex;
+    margin-left: 160px;
+    font-size: medium;
+    font-weight: 400;
+}
+.tex2{
+    display: flex;
+    margin-left: 750px;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.primera h6{
+    display: flex;
+    margin-left: 160px;
+    color: rgb(29, 174, 48);
+    font-size: medium;
+    margin-top: -10px;
+}
+.segunda h6{
+    display: flex;
+    margin-left: 350px;
+    margin-top: -56px;
+    color: rgb(29, 174, 48);
+    font-size: medium;
+}
+
+.tercera h6{
+    display: flex;
+    margin-left: 750px;
+    margin-top: 25px;
+    color: rgb(29, 174, 48);
+    font-size: medium;
+}
+
+.tex3{
+    display: flex;
+    margin-top: 600px;
+    margin-left: 150px;
+    font-size: xx-large;
+}
+.cuarta p{
+    margin-left: 150px;
+    margin-top: -10px;
+    line-height: 22px;
+    font-weight: 300;
+}
+.cuarta h6{
+    margin-left: 150px;
+    margin-top: -3px;
+    font-size:medium;
+    color: rgb(29, 174, 48);
+}
+.image3{
+    display: flex;
+    height: 400px;
+    width: 750px;
+    margin-left: 630px;
+    margin-top: -350px;
+}
+
+
+.image4{
+    display: flex;
+    height: 400px;
+    width: 750px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.tex4{
+    margin-left: 900px;
+    margin-top: -350px;
+    font-size: xx-large;
+}
+.quinta p{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 30px;
+    font-weight: 300;
+    line-height: 22px;
+}
+.quinta h6{
+    display: flex;
+    color: rgb(29, 174, 48);
+    margin-left: 900px;
+    font-size:medium;
+    line-height: 1px;
+}
+
+.tex5{
+    display: flex;
+    margin-top: 450px;
+    margin-left: 150px;
+    font-size: xx-large;
+}
+.sexta p{
+    display: flex;
+    line-height: 22px;
+    font-weight: 300;
+    margin-left: 150px;
+    margin-top: -10px;
+}
+.sexta h6{
+    margin-left: 150px;
+    margin-top: -3px;
+    font-size:medium;
+    color: rgb(29, 174, 48);
+    
+}
+.ex .hs{
+    display: flex;
+    margin-left: 315px;
+    margin-top: -56px;
+    font-size:medium;
+    color: rgb(29, 174, 48);
+}
+.image5{
+    display: flex;
+    height: 400px;
+    width: 750px;
+    margin-top: -350px;
+    margin-left: 650px
+}
+
+.image6{
+    display: flex;
+    height: 400px;
+    width: 750px;
+    margin-top: 280px;
+    margin-left: 100px;
+}
+.tex6{
+    margin-left: 900px;
+    margin-top: -300px;
+    font-size: xx-large;
+}
+.sept p{
+    display: flex;
+    line-height: 22px;
+    font-weight: 300;
+    margin-left: 900px;
+    margin-top: -10px;
+}
+.sept h6{
+    display: flex;
+    color: rgb(29, 174, 48);
+    margin-left: 900px;
+    font-size:medium;
+    line-height: 1px;
+}
+
+
+.tex7{
+    display: flex;
+    margin-top: 450px;
+    margin-left: 150px;
+    font-size: xx-large;
+}
+.octa p{
+    display: flex;
+    line-height: 22px;
+    font-weight: 300;
+    margin-left: 150px;
+    margin-top: -10px;
+}
+.octa h6{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size:medium;
+    color: rgb(29, 174, 48);
+    line-height: 2px;
+}
+.image7{
+    display: flex;
+    height: 400px;
+    width: 750px;
+    margin-top: -380px;
+    margin-left: 650px
+}
+
+
+.tex8{
+    display: flex;
+    margin-top: 380px;
+    margin-left: 290px;
+    font-size:80px;
+    text-align:center;
+    color: rgb(26, 121, 30);
+    line-height: 80px;
+    font: weight 900px;;
+}
+
+.image8{
+    display: flex;
+    height: 510px;
+    width: 1040px;
+    margin-top: 280px;
+    margin-left: 450px;
+}
+.image8 {
+    position: absolute;
+    z-index: 0;
+}
+.tex8 {
+    position: absolute;
+    z-index: 1;
+}
+
+
+.te6 h6{
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(95, 255, 95);
+    margin-top: 570px;
+    margin-left: 375px;
+    color: rgb(2, 2, 2);
+    font-size:medium;
+    font-weight: 500;
+}
+
+.cub{
+    position: absolute;
+    z-index: 3;
+    margin-left: 400px;
+    margin-top: 430px;
+}
+
+
+.cuadronegro {
+    background-color: #000;
+    margin-top: 530px;
+    align-self: center;
+    text-align: center;
+    width: 1490px;
+    height: 120px;
+  
+}
+.te7{
+    display: flex;
+    color: rgb(255, 255, 255);
+    margin-top: -80px;
+    line-height: 12px;
+    font-weight:300;
+    margin-left: 40px;
+}
+
+
+
+.lista2 {
+    
+    list-style: none;
+    font-weight: 300;
+    line-height: 18px;
+    
+    
+}
+
+.lista3 {
+    
+    list-style: none;
+    font-weight: 300;
+    line-height: 18px;
+    margin-left: 200px;
+    margin-top: -120px;
+}
+
+.lista4{
+    list-style: none;
+    font-weight: 300;
+    line-height: 18px;
+    margin-left: 500px;
+    margin-top: -120px;
+}
+
+.lista5{
+    list-style: none;
+    font-weight: 300;
+    line-height: 18px;
+    margin-left: 800px;
+    margin-top: -120px;
+}
+
+.cuadrogris{
+    background-color: #d2d2d257;
+    height: 420px;
+    width: 1490px;
+    margin-top: -135px;
+}
+
+.lista6 {
+    display: flex;
+    list-style:none;
+    justify-content: space-evenly;
+    margin-top: -80px;
+    font-weight: 200;
+    margin-left: 30px;
+}
+.mun{
+    width: 19px;
+    height: 20px;
+    margin-left: -30px;
+    margin-top: -1px;
+}
+
+.EM{
+    margin-left: -30px;
+    margin-top: 15px;
+    
+}
